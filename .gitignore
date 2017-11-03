@@ -1,0 +1,9 @@
+*.class
+*.apk
+bin/
+gen/
+.settings/
+proguard/
+*.classpath
+/doExt_do_InitData/do_InitData.zip
+/doExt_do_InitData/libs/docore.jar
