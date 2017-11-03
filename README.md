@@ -1,0 +1,2 @@
+# do_InitData
+只读目录区文件管理类,DeviceOne定义了自己的文件URI，用户可以利用InitData类来处理initdata://开头的只读目录区文件，目前暂时不支持中文目录和中文文件名
